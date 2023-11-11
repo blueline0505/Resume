@@ -63,5 +63,21 @@ ___
             *   開發相關Web API
 ___
 ##  作品    
+###   iFora O2
+<p float="left">
+    <img src='https://github.com/blueline0505/Resume/blob/499d8dd55a6c1b84eb11f36224f80c48c671e70f/Portfolio/O2Result/O2Result0.PNG' width='20%'>  
+     <img src='https://github.com/blueline0505/Resume/blob/499d8dd55a6c1b84eb11f36224f80c48c671e70f/Portfolio/O2Result/O2Result1.png' width='20%'>
+    <img src='https://github.com/blueline0505/Resume/blob/499d8dd55a6c1b84eb11f36224f80c48c671e70f/Portfolio/O2Result/O2Result2.PNG' width='20%'>
+    <img src='https://github.com/blueline0505/Resume/blob/499d8dd55a6c1b84eb11f36224f80c48c671e70f/Portfolio/O2Result/O2Result3.PNG' width='20%'>
+</p>   
 
+###   iFora Smart
+<p float="left">
+    <img src='https://github.com/blueline0505/Resume/blob/499d8dd55a6c1b84eb11f36224f80c48c671e70f/Portfolio/SmartResult.png' width='80%'>  
+</p>   
+
+###   iFora TM
+<p float="left">
+    <img src='https://github.com/blueline0505/Resume/blob/499d8dd55a6c1b84eb11f36224f80c48c671e70f/Portfolio/TMResult.png' width='80%'>  
+</p>
 
