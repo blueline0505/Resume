@@ -77,9 +77,6 @@ ___
                * 開發相關 Web API
 ___
 ##  作品    
-###   UCB e-Banking KH
-
-
 ###   iFora O2
 <p float="left">
  <img src='https://github.com/blueline0505/Resume/blob/499d8dd55a6c1b84eb11f36224f80c48c671e70f/Portfolio/O2Result/newO2Version.png' width='20%'>  
